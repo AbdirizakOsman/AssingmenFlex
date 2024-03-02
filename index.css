@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #000080;
+    width: 100%;
+}
+.main{
+    margin-bottom: 100px;
+    width: 100%;
+}
+
+
+.left img{
+    padding: 80px;
+    width: 300px;
+    height: 300px;
+    
+    border-radius: 20%;
+  
+}
+.size{
+    margin-left: 310px;
+}
+.right{
+    color: white;
+    display: block;
+    width: 600px;
+   
+    margin-left: 500px;
+    /* padding-top: -700px; */
+}
+.right h2{
+    padding: 15px;
+}
+p{
+    text-align: justify;
+    font-size: 15px;
+}
+.right p{
+    padding: 10px;
+    
+}
+
+.right {
+    margin-top: -360px;
+   
+}
+
+ .right button{
+    padding: 10px 35px;
+    border-radius: 10px;
+}
+.btn{
+    margin-bottom: -20px;
+    background-color: white;
+    margin-left: 10px;
+    color: purple;
+    
+
+}
+
+
+
+.body{
+    background-color: purple;
+    width: 2000px;
+   
+    margin-bottom: -900px;
+    padding-bottom: 100px;
+}
+
+
+.icone{
+    background-color: white;
+   
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 120px;
+  
+    
+}
+.main-icone{
+    display: flex;
+   
+    margin: 0 auto;
+    width: 100%;
+}
+
+.my{
+ text-align: center;
+ font-size: 40px;
+
+}
+.body h2{
+    padding: 50px;
+    color: white;
+    text-decoration: underline;
+}
+.my span{
+    color: orange;
+    padding-bottom: -500px;
+}
+.my hr{
+    height: 4%;
+    width: 50px;
+}
+
+.icone img{
+    width: 90px;
+    margin-left: 90px;
+    margin-top: 20px;
+    align-items: center;
+    color: orange;
+}
+
+
+.icone h3{
+    text-align: center;
+    color: purple;
+}
+
+.icone p{
+    width: 300px;
+    text-align: center;
+    
+}
